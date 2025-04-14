@@ -1,11 +1,18 @@
 public abstract class Mensagem
 {
-    public required Contatinho Destinatario { get; set; }
-    public required string HoraEnvio { get; set; }
-    public required string Conteudo { get; set; }
+    public Contatinho Destinatario { get; set; }
+    public string HoraEnvio { get; set; }
+    public string Conteudo { get; set; }
 
     public override string ToString()
     {
-        return $"{HoraEnvio} - {Destinatario.Nome}: {Conteudo}";
+        return $"Enviado as: {HoraEnvio}, Para: {Destinatario.Celular}, Conteudo: {Conteudo}";
+    }
+
+    public Mensagem(Contatinho destinatario, string conteudo)
+    {
+        Destinatario = destinatario;
+        HoraEnvio = new DateTime().ToString("HH:mm:ss");
+        Conteudo = conteudo;
     }
 }

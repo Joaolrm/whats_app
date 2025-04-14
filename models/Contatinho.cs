@@ -1,5 +1,11 @@
 public class Contatinho
 {
-    public required string Nome { get; set; }
-    public required string Celular { get; set; }
+    public string Nome { get; set; }
+    public string Celular { get; set; }
+
+    public Contatinho(string nome, string celular)
+    {
+        Nome = nome;
+        Celular = celular;
+    }
 }

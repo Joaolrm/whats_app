@@ -1,0 +1,15 @@
+c:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\bin\Debug\net9.0\whats_app.exe
+C:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\bin\Debug\net9.0\whats_app.deps.json
+C:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\bin\Debug\net9.0\whats_app.runtimeconfig.json
+c:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\bin\Debug\net9.0\whats_app.dll
+c:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\bin\Debug\net9.0\whats_app.pdb
+c:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\obj\Debug\net9.0\whats_app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\obj\Debug\net9.0\whats_app.AssemblyInfoInputs.cache
+c:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\obj\Debug\net9.0\whats_app.AssemblyInfo.cs
+c:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\obj\Debug\net9.0\whats_app.csproj.CoreCompileInputs.cache
+c:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\obj\Debug\net9.0\whats_app.sourcelink.json
+c:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\obj\Debug\net9.0\whats_app.dll
+c:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\obj\Debug\net9.0\refint\whats_app.dll
+c:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\obj\Debug\net9.0\whats_app.pdb
+C:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\obj\Debug\net9.0\whats_app.genruntimeconfig.cache
+C:\Users\01297864\Desktop\pessoal\faculdade\fdw1\whats_app\obj\Debug\net9.0\ref\whats_app.dll
